@@ -1,4 +1,38 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'brant': Perform Brant test of parallel regression assumption after ologit Use brant With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F _orme_data.ado
+F _orme_data_getmatrix.ado
+F _orme_data_getme.ado
+F _orme_data_getor.ado
+F _orme_data_plotpairs.ado
+F _orme_data_plotvariables.ado
+F _orme_graph.ado
+F _orme_syntax.ado
+F _rm.sthlp
+F _rm_cleancmd.ado
+F _rm_footer.ihlp
+F _rm_fvtype.ado
+F _rm_get_base.ado
+F _rm_get_mchange.ado
+F _rm_lincom_stats.ado
+F _rm_margins_clean_cmd.ado
+F _rm_margins_modeltype.ado
+F _rm_margins_names.ado
+F _rm_margins_parse_options.ado
+F _rm_margins_parse_predict.ado
+F _rm_marginsinfo.ado
+F _rm_marginsnames.ado
+F _rm_matrix_index.ado
+F _rm_matrix_nomiss.ado
+F _rm_matrix_noomitted.ado
+F _rm_matrix_rclist.ado
+F _rm_matrix_select.ado
+F _rm_mlogitbv.ado
+F _rm_modelinfo2.ado
+F _rm_parse_aeqb.ado
+F _rm_parse_atspec.ado
+F _rm_pwnames.ado
+F _rm_rhsnames.ado
+F _rm_sum.ado
+F brant.ado
+F brant.sthlp
