@@ -1,6 +1,8 @@
 # brant
 Perform Brant test of parallel regression assumption after ologit Use brant With STATA 19
 
+https://www.youtube.com/watch?v=0WXGIWM9_EY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
